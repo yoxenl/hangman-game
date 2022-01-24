@@ -1,3 +1,5 @@
+Just my plans for this bot-
+
 Pseudokod
 Lista på ord
 - Möjligtvis kategorier (djur, känslor, städer, filmer, färger)
